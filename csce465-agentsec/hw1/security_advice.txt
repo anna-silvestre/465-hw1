@@ -1,0 +1,21 @@
+# General Computer Security Advice
+
+1. **Use Strong Passwords**: Create passwords that are long, random, and unique for each account. Consider using a password manager to help manage them.
+
+2. **Enable Two-Factor Authentication**: Whenever possible, use two-factor authentication to add an extra layer of security to your accounts.
+
+3. **Keep Software Updated**: Regularly update your operating system, applications, and firmware to patch known vulnerabilities.
+
+4. **Be Wary of Phishing Emails**: Avoid clicking on links or downloading attachments from unknown or suspicious emails.
+
+5. **Back Up Data Regularly**: Maintain regular backups of important data to protect against data loss from hardware failure or malware attacks.
+
+6. **Use Antivirus Software**: Install and maintain reliable antivirus software to detect and prevent threats from malware.
+
+7. **Secure Your Network**: Use a strong password for your Wi-Fi network and consider using VPNs to secure your internet connections.
+
+8. **Be Cautious with Public Wi-Fi**: Avoid accessing sensitive information over public Wi-Fi networks without using a VPN.
+
+9. **Monitor Account Activity**: Regularly check your account and transaction history for any unauthorized activity.
+
+10. **Educate Yourself**: Stay informed about the latest cybersecurity threats and best practices to enhance your security awareness.
