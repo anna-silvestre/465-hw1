@@ -45,7 +45,7 @@ date +"%A, %B %d, %Y %H:%M:%S"
 This command uses the `date` utility to show the current day of the week, month, day, year, and time.
 
 this call didn't use any tools.
-// TODO
+it correctly performed the task, it displayed a shell command (without running it)
 
 anna_s@anna-465:~$ openclaw agent --agent main -m "fetch people.tamu.edu/~anna-silvestre and summarize it"
 │
@@ -58,7 +58,8 @@ I'm not magic—I'm just extremely persistent with retries and coping strategies
 ◇  
 Anna Silvestre is a Computer Science student at Texas A&M University, passionate about software engineering and cultural engagement. She aims to excel technically while nurturing her interpersonal skills, believing in solving problems and building relationships for a better world. Besides devoting time to learning and volunteering, she enjoys creating playlists on Spotify and participating in hackathons like TAMUhack. For more about her work and interests, you can check her portfolio or contact her via the provided email or LinkedIn.
 
-
+this call didn't use any tools.
+this correctly fetched my personal webpage and summarized the data
 
 
 anna_s@anna-465:~$ openclaw agent --agent main -m "create a new file under ~/csce465-agentsec/hw1/ with some general computer security advice"
